@@ -10,6 +10,12 @@
 </p>
 
 > Boilerplate to create library with Vite, Typescript and React.js
+
+## Prerequisites
+
+- node >= 14.17.0
+
+
 ## Install
 
 ```sh
@@ -22,7 +28,7 @@ or
 yarn install
 ```
 
-## Start 
+## Usage 
 
 ```sh
 npm run dev
